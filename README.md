@@ -5,6 +5,7 @@ Thanks to Mr. Joel
 
 原文於此連結：
 https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/
+
 Source code:
 https://github.com/joelgrus/fizz-buzz-tensorflow
 

@@ -1,6 +1,7 @@
 # NN_FizzBuzz
 
 這個專案是依循Joel Grus所寫的小短篇故事來練習實作tensorflow以及nn
+
 Thanks to Mr. Joel
 
 原文於此連結：
